@@ -1,0 +1,11 @@
+.buildlog
+.DS_Store
+.idea
+.pub/
+build/
+styles
+pubspec.lock
+CHANGELOG.md
+pubspec.yaml
+README.md
+web
